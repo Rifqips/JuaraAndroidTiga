@@ -47,6 +47,7 @@ import id.rifqipadisiliwangi.JuaraAndroidTIga.data.Dog
 import id.rifqipadisiliwangi.JuaraAndroidTIga.data.dogs
 import id.rifqipadisiliwangi.JuaraAndroidTIga.ui.theme.WoofTheme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
