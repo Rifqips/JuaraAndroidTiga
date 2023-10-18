@@ -34,20 +34,22 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/239f44792536ac516ef817c1b15f0499/transformed/activity-ktx-1.7.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7463d20f662967154ac5979bbf393737/transformed/activity-1.7.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f7e31038242e82a7941a43a44bd8e387/transformed/activity-compose-1.7.2-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/02dc1dee534c7c2f88c979a13df09a46/transformed/ui-1.4.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/a1fdc61258871a894a3d93f1e64c58b6/transformed/ui-test-junit4-1.4.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/faf902a2f39afefcfb86549b00c4bbf9/transformed/junit-1.1.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e1383c42e50b35e2e1b1653d2270a1ef/transformed/espresso-core-3.5.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f0101b9a76c75235b2162765485357c4/transformed/core-1.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c13fd969152d339b6b52030e79636d05/transformed/lifecycle-livedata-core-2.6.2-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/5c8fe2761015e3ec3a9c99776ebfe0d9/transformed/lifecycle-viewmodel-ktx-2.6.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.2/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/5c8fe2761015e3ec3a9c99776ebfe0d9/transformed/lifecycle-viewmodel-ktx-2.6.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.6.2/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.6.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f1e2d8c20a9c24eeb288ca06a7943562/transformed/lifecycle-viewmodel-2.6.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b42d53ae4fee6b8573f0adecd5ec0930/transformed/lifecycle-viewmodel-savedstate-2.6.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b8b4a45dc99952b74f76dc674b8434d5/transformed/core-ktx-1.9.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b1cbf573f15a296d99ad1fa071971199/transformed/core-1.9.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/49248e2aa7b703eccb04b768686ce98e/transformed/lifecycle-runtime-2.6.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/01f87e57cd4f58c5bcecec9d0fec0b4c/transformed/lifecycle-runtime-ktx-2.6.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/e7cee59085c8f669afaec43c94b2bc49/transformed/lifecycle-viewmodel-compose-2.6.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/02dc1dee534c7c2f88c979a13df09a46/transformed/ui-1.4.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a1fdc61258871a894a3d93f1e64c58b6/transformed/ui-test-junit4-1.4.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/faf902a2f39afefcfb86549b00c4bbf9/transformed/junit-1.1.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/18952882eb0232f1ad04f99b33765ba1/transformed/runtime-saveable-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/42aa16780f2db057f9e2675a38edaf9c/transformed/runtime-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test-jvm/1.6.4/27cee4a22d4149a86095bb1b4f4c5f10fbd3be97/kotlinx-coroutines-test-jvm-1.6.4.jar</arg>
@@ -180,6 +182,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.foundation:foundation-layout:1.4.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material:material-icons-core:1.4.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material:material-ripple:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.5.0" level="project" />
@@ -201,6 +204,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-test-jvm:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.6.2" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="JuaraAndroidTIga.app.main" />
 </module>
